@@ -1,1 +1,1 @@
-pring("jonguk")
+print("jonguk")
